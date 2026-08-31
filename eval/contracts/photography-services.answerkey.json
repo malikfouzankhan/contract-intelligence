@@ -1,0 +1,10 @@
+{
+  "contractId": "photography-services",
+  "seededIssues": [
+    {
+      "clauseType": "payment_terms",
+      "description": "Payment window is net 90 with no late penalty, and Client may withhold payment entirely at its sole discretion.",
+      "severity": "medium"
+    }
+  ]
+}

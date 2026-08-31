@@ -1,0 +1,10 @@
+{
+  "contractId": "marketing-consulting",
+  "seededIssues": [
+    {
+      "clauseType": "ip_assignment",
+      "description": "IP assignment extends beyond project deliverables to Consultant's pre-existing frameworks, methodologies, and templates.",
+      "severity": "high"
+    }
+  ]
+}

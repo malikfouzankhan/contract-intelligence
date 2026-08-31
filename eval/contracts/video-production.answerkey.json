@@ -1,0 +1,11 @@
+{
+  "contractId": "video-production",
+  "seededIssues": [
+    {
+      "clauseType": "liability",
+      "description": "Liability appears capped at fees paid, but the carve-out exceptions (confidentiality, indemnification, data handling, third-party content, and any dispute over whether work met expectations) are broad enough to swallow the cap in practice, leaving liability effectively unlimited for most realistic disputes.",
+      "severity": "high"
+    }
+  ],
+  "notes": "The cap looks standard on first read ('shall not exceed the total fees paid'), but the exceptions clause is broad enough to cover nearly any real dispute, especially the catch-all for work not meeting Client's expectations. Tests whether verification catches a cap that is illusory due to its own exceptions, not just the presence or absence of a cap."
+}

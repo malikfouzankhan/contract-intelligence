@@ -1,0 +1,10 @@
+{
+  "contractId": "mutual-nda",
+  "seededIssues": [
+    {
+      "clauseType": "confidentiality",
+      "description": "Confidentiality obligations run one-directional (protecting only Consultant's information, not Company's) and are indefinite with no carve-outs for public or independently known information.",
+      "severity": "low"
+    }
+  ]
+}

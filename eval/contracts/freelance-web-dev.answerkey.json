@@ -1,0 +1,10 @@
+{
+  "contractId": "freelance-web-dev",
+  "seededIssues": [
+    {
+      "clauseType": "liability",
+      "description": "Liability is explicitly unlimited and includes indirect, incidental, and consequential damages, with no cap tied to fees paid.",
+      "severity": "high"
+    }
+  ]
+}

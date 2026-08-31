@@ -1,0 +1,10 @@
+{
+  "contractId": "software-consulting",
+  "seededIssues": [
+    {
+      "clauseType": "non_compete",
+      "description": "Non-compete runs 24 months (exceeds the 12-month standard) and applies broadly across three entire industries regardless of direct competition with Client.",
+      "severity": "medium"
+    }
+  ]
+}

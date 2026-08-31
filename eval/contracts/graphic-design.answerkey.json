@@ -1,0 +1,10 @@
+{
+  "contractId": "graphic-design",
+  "seededIssues": [
+    {
+      "clauseType": "termination",
+      "description": "Termination is one-directional: Client may terminate for any reason at any time, while Contractor may only terminate for an uncured payment failure.",
+      "severity": "medium"
+    }
+  ]
+}

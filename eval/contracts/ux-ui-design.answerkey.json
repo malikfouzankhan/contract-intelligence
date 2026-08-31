@@ -1,0 +1,15 @@
+{
+  "contractId": "ux-ui-design",
+  "seededIssues": [
+    {
+      "clauseType": "indemnification",
+      "description": "Indemnification is one-directional, extends to Client's own misuse of deliverables (outside Consultant's control), and carries no cap.",
+      "severity": "high"
+    },
+    {
+      "clauseType": "auto_renewal",
+      "description": "Auto-renewal cancellation window is only ten days with no reminder obligation on Client.",
+      "severity": "low"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "contractId": "content-writing",
+  "seededIssues": [
+    {
+      "clauseType": "auto_renewal",
+      "description": "Auto-renewal cancellation window is only five days with no reminder obligation on Client, well short of the standard 30-60 day notice window.",
+      "severity": "low"
+    }
+  ]
+}
