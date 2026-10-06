@@ -75,3 +75,5 @@ As a small supporting data point: baseline's output on the clean control contrac
 - [docs/playbook.md](docs/playbook.md): the full clause taxonomy and risk patterns the agent checks against
 - [docs/eval.md](docs/eval.md): test data format, eval harness design, scoring methodology
 - [REPRODUCTION.md](REPRODUCTION.md): how to run this yourself from a clean environment
+
+For any queries, contact the owner.
